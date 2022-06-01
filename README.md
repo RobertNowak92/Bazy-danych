@@ -1,4 +1,4 @@
-Zaliczenie z Baz Danych i Hurtowni Danych
+# Zaliczenie Bazy Danych i Hurtownie Danych
 Robert Nowak Studia podyplomowe IDDS rok 2021/22
 
 Została stworzona baza relacyjna w PostgreSQL przy wykorzystaniu danych ze strony:<br>
