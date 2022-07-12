@@ -1,6 +1,10 @@
 # Zaliczenie Bazy Danych i Hurtownie Danych
 Robert Nowak Studia podyplomowe IDDS rok 2021/22
 
+[Chicago_crime_data_1](images/Chicago_crime_data_1.jpg)
+[Chicago_crime_data_2](images/Chicago_crime_data_2.jpg)
+[Chicago_crime_data_3](images/Chicago_crime_data_3.jpg)
+
 Została stworzona baza relacyjna w PostgreSQL przy wykorzystaniu danych ze strony:<br>
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2<br>
 dotycząca przestępstw popełnianych w Chicago<br>
