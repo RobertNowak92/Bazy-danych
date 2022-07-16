@@ -22,11 +22,14 @@ Inside PostgreSQL database 5 views were created for better understanding of the 
 Tables were imported into the Power BI report.
 
 # List of requirements
+
 Power BI report:
 - Power BI Desktop (verion used for this project 2.107.683.0 64-bit) or cloud app.powerbi.com<br>
+
 Jupyter Notebook file:
 - Jupyter Notebook 6.4.8
 - pandas 1.4.2
 - extract zip files inside the data folder<br>
+
 PostgreSQL:
 - postgresql 14
